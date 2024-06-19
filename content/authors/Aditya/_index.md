@@ -1,28 +1,29 @@
 
 ---
 # Display name
-title: Priti Singh
+title: Adithya Maurya
 
 # Username (this should match the folder name)
 authors:
-- Graduate Students
+- Visiting Students
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: JRF (SERB), CSIR-CLRI, India
+role: Summer Intern
 
 #Organizations/Affiliations
 organizations: 
-- name: CSIR-CLRI, CHENNAI, India
+- name: UM - DAE - Centre for Excellence in
+Basic Sciences
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Priti Singh, SERB - JRF, Chemistry
+bio:  Adithya Maurya, Chemistry
 
 interests:
-- Computational Electrochemical Energy
+- Machine Learning for Materials Science 
 education: 
   
 # Social/Academic Networking
@@ -35,10 +36,10 @@ social:
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/spriti_tp
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/adithyamauryakr
+#- icon: google-scholar
+##  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
 #  link: 
