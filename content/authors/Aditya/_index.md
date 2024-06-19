@@ -1,7 +1,7 @@
 
 ---
 # Display name
-title: Adithya Maurya
+title: Adithya  Maurya
 
 # Username (this should match the folder name)
 authors:
