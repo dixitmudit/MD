@@ -14,10 +14,10 @@ superuser: false
 role: Summer Intern
 
 #Organizations/Affiliations
-organizations: 
-- name: UM - DAE - Centre for Excellence in
-Basic Sciences
-  url: ""
+#organizations: 
+#- name: UM - DAE - Centre for Excellence in
+#Basic Sciences
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio:  Adithya Maurya, Chemistry
