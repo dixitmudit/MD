@@ -14,8 +14,8 @@ superuser: false
 role: Summer Intern
 
 #Organizations/Affiliations
-#organizations: 
-#- name: UM - DAE - Centre for Excellence in
+organizations: 
+- name: UM - DAE - Centre for Excellence in
 #Basic Sciences
 #  url: ""
 
