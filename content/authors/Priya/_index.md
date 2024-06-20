@@ -39,7 +39,7 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
+# - icon: github
 #  icon_pack: fab
 #  link: 
 # Link to a PDF of your resume/CV from the About widget.
@@ -47,7 +47,7 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-
+#
  Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "priyapugaz01@gmail.com"
 
