@@ -75,4 +75,4 @@ user_groups:
 We apply Computational Chemistry and Machine Learning methods to discover materials with improved performance for energy and 
 environmental applications. Our research guides experiments by providing atomic-level insights employing principles of Quantum Chemistry, Thermodynamics, Electrochemistry
 and Catalysis.
-![Alt text](/static/img/thrust.png)
+![Alt text](/img/thrust.png)
