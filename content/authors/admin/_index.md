@@ -71,8 +71,6 @@ user_groups:
 # Visitors
 #
 ---
-
-We apply Computational Chemistry and Machine Learning methods to discover materials with improved performance for energy and 
-environmental applications. Our research guides experiments by providing atomic-level insights employing principles of Quantum Chemistry, Thermodynamics, Electrochemistry
-and Catalysis.
-![Alt text](/img/thrust.png)
+We apply Advanced Computational Chemistry and Machine Learning methods to discover materials with improved performance for energy and environmental applications. Our research guides experiments by providing atomic-level insights employing principles of Quantum Chemistry, Thermodynamics, Electrochemistry, and Catalysis.
+Specifically, we develop advanced battery materials and exploring alternative energy storage systems in energy storage. We are also interested in catalysis research, focusing on designing novel catalysts for various applications.. Through our research, we aim to make a significant impact in the fields of energy, environment, and sustainability. We are excited to collaborate with others who share our passion and are committed to building a more sustainable future. Our primary research thrusts are:
+# I. Electrochemical Energy storage (Li-/Na- ion batteries)![Alt text](/img/T1.png)
