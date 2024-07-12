@@ -15,7 +15,11 @@ subtitle = "Journal front cover"
 weight = 80
 
 +++
-## J, Phys. Chem C Cover 
+## J. Phys. Chem C Cover II 
+Our [work](https://pubs.acs.org/doi/10.1021/acs.jpcc.4c00811) titled "titled "Stabilizing Anionic Redox and Tuning Its Extent in Na-Rich Cathode Materials through Electronic Structure Engineering" is being featured in the front cover of J. Phys Chem C. [Cover Link](https://pubs.acs.org/toc/jpccck/128/22)
+{{< figure library="true" src="mcov.jpg" title="JPCC Cover II 2024" lightbox="true" >}}
+
+## J. Phys. Chem C Cover I 
 Our [work](https://pubs.acs.org/doi/10.1021/acs.jpcc.3c00387) titled "titled "Boosting CO2 Activation and Reduction by Engineering the Electronic Structure of Graphitic Carbon Nitride through Transition Metal-Free Single-Atom Functionalization" is being featured in the front cover of J. Phys Chem C. [Cover Link](https://pubs.acs.org/toc/jpccck/127/25)
 {{< figure library="true" src="manz.jpg" title="JPCC Cover I 2024" lightbox="true" >}}
 
