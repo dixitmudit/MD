@@ -15,8 +15,13 @@ subtitle = "Journal front cover"
 weight = 80
 
 +++
+## J, Phys. Chem C Cover 
+Our [work](https://pubs.acs.org/doi/10.1021/acs.jpcc.3c00387) titled "titled "Boosting CO2 Activation and Reduction by Engineering the Electronic Structure of Graphitic Carbon Nitride through Transition Metal-Free Single-Atom Functionalization" is being featured in the front cover of J. Phys Chem C. [Cover Link](https://pubs.acs.org/toc/jpccck/127/25)
+{{< figure library="true" src="manz.jpg" title="JPCC Cover I 2024" lightbox="true" >}}
+
+
 ## ACS Catalysis Cover 
-My [work](https://pubs.acs.org/doi/10.1021/acscatal.8b03484) titled "work titled "Structure–Activity Relationships in Alkane Dehydrogenation on γ-Al2O3: Site-Dependent Reactions" being featured in the front cover of ACS Catalysis. [Cover Link](https://pubs.acs.org/toc/accacs/8/12)
+Our [work](https://pubs.acs.org/doi/10.1021/acscatal.8b03484) titled "work titled "Structure–Activity Relationships in Alkane Dehydrogenation on γ-Al2O3: Site-Dependent Reactions" being featured in the front cover of ACS Catalysis. [Cover Link](https://pubs.acs.org/toc/accacs/8/12)
 {{< figure library="true" src="Catal.jpg" title="Structure–Activity Relationships" lightbox="true" >}}
 
 
