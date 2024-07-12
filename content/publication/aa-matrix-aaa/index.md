@@ -1,7 +1,6 @@
 ---
 title: 
-"Total Citations | 3600 
---- | --- 
+"Total Citations | 3600
 h-index | 25 "
 
 date: 2024-07-01
