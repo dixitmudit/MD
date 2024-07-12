@@ -5,7 +5,7 @@ publishDate: 2023-01-22T01:16:21.075019Z
 authors: ["Singh Priti","Gogoi Amrita", "Aien Qurat Ul", "Dixit Mudit"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*ChemPhysChem*"
 ---
 

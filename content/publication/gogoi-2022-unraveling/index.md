@@ -5,7 +5,7 @@ publishDate: 2022-07-22T01:16:21.102502Z
 authors: ["Gogoi Amrita", "Singh Priti", "Pal, Sourav", "Dixit Mudit"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Inorganic Chemistry*"
 ---
 

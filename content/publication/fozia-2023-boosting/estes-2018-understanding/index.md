@@ -5,7 +5,7 @@ publishDate: 2023-03-22T01:16:21.102502Z
 authors: ["Fozia Syed", "Hassan Afshana", "Reshi Showkat Ahmad", "Singh Priti", "Bhat Gulzar A", "Dixit Mudit*", "Dar, Manzoor Ahmad*"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*The Journal of Physical Chemistry C*"
 ---
 
