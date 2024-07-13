@@ -11,7 +11,7 @@ interval = false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "175px"
+height = "200px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -36,7 +36,7 @@ height = "175px"
 
 [[item]]
   title = "Current Openings"
-  content = "Highly telanted students intersted in working in our lab my write directly to Dr. Dixit (dixitmuditk@gmail.com or muditdixit@clri.res.in)"
+  content = "write directly to Dr. Dixit (muditdixit@clri.res.in)"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
