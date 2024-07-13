@@ -10,7 +10,7 @@
 
 [[main]]
  name = "Posts"
- url = "posts"
+ url = "#posts"
  weight = 20
 
 [[main]]
@@ -52,7 +52,11 @@
   name = "Team"
   url = "#people"
   weight = 90
-  
+
+ [[main]]
+  name = "Gallery"
+  url = "#gallery"
+  weight = 100
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
