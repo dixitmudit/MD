@@ -15,6 +15,11 @@ subtitle = "Journal front cover"
 weight = 80
 
 +++
+## J. Phys. Chem A Cover
+Our [work](https://pubs.acs.org/doi/10.1021/acs.jpca.4c04069) titled "titled "Mechanistic Insight of High-Valent First-Row Transition Metal Complexes for Dehydrogenation of Ammonia Borane" is being featured in the front cover of J. Phys Chem A. [Cover Link](https://pubs.acs.org/toc/jpccck/128/22)
+{{< figure library="true" src="cova.jpg" title="JPCA Cover 2024" lightbox="true" >}}
+
+
 ## J. Phys. Chem C Cover II 
 Our [work](https://pubs.acs.org/doi/10.1021/acs.jpcc.4c00811) titled "titled "Stabilizing Anionic Redox and Tuning Its Extent in Na-Rich Cathode Materials through Electronic Structure Engineering" is being featured in the front cover of J. Phys Chem C. [Cover Link](https://pubs.acs.org/toc/jpccck/128/22)
 {{< figure library="true" src="mcov.jpg" title="JPCC Cover II 2024" lightbox="true" >}}
