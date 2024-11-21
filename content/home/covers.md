@@ -15,7 +15,7 @@ subtitle = "Journal front cover"
 weight = 80
 
 +++
-## ACS Applied Electronic Materials  Cover
+## ACS Applied Electronic Materials Cover
 
 Our [work](https://pubs.acs.org/doi/10.1021/acsaelm.4c01199) titled "Unraveling the Contribution of Cationic and Anionic Redox in Na-Rich Cathode Materials through First-Principles Calculations" is being featured in the front cover of J. Phys Chem A. [Cover Link](https://pubs.acs.org/toc/aaembp/6/10)
 {{< figure library="true" src="COVA3.jpg" title="ACS AELM Cover 2024" lightbox="true" >}}
