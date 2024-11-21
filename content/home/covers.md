@@ -16,7 +16,7 @@ weight = 80
 
 +++
 ## J. Phys. Chem A Cover
-Our [work](https://pubs.acs.org/doi/10.1021/acs.jpca.4c04069) titled "titled "Mechanistic Insight of High-Valent First-Row Transition Metal Complexes for Dehydrogenation of Ammonia Borane" is being featured in the front cover of J. Phys Chem A. [Cover Link](https://pubs.acs.org/toc/jpccck/128/22)
+Our [work](https://pubs.acs.org/doi/10.1021/acs.jpca.4c04069) titled "titled "Mechanistic Insight of High-Valent First-Row Transition Metal Complexes for Dehydrogenation of Ammonia Borane" is being featured in the front cover of J. Phys Chem A. [Cover Link](https://pubs.acs.org/toc/jpcafh/128/37)
 {{< figure library="true" src="cova.jpg" title="JPCA Cover 2024" lightbox="true" >}}
 
 
