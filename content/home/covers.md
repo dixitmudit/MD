@@ -15,22 +15,25 @@ subtitle = "Journal front cover"
 weight = 80
 
 +++
+## ACS Applied Electronic Materials  Cover
+Our [work](https://pubs.acs.org/doi/10.1021/acsaelm.4c01199) titled "Unraveling the Contribution of Cationic and Anionic Redox in Na-Rich Cathode Materials through First-Principles Calculations" is being featured in the front cover of J. Phys Chem A. [Cover Link](https://pubs.acs.org/toc/aaembp/6/10)
+{{< figure library="true" src="COVA3.jpg" title="ACS AELM Cover 2024" lightbox="true" >}}
 ## J. Phys. Chem A Cover
-Our [work](https://pubs.acs.org/doi/10.1021/acs.jpca.4c04069) titled "titled "Mechanistic Insight of High-Valent First-Row Transition Metal Complexes for Dehydrogenation of Ammonia Borane" is being featured in the front cover of J. Phys Chem A. [Cover Link](https://pubs.acs.org/toc/jpcafh/128/37)
+Our [work](https://pubs.acs.org/doi/10.1021/acs.jpca.4c04069) titled "Mechanistic Insight of High-Valent First-Row Transition Metal Complexes for Dehydrogenation of Ammonia Borane" is being featured in the front cover of J. Phys Chem A. [Cover Link](https://pubs.acs.org/toc/jpcafh/128/37)
 {{< figure library="true" src="cova.jpg" title="JPCA Cover 2024" lightbox="true" >}}
 
 
 ## J. Phys. Chem C Cover II 
-Our [work](https://pubs.acs.org/doi/10.1021/acs.jpcc.4c00811) titled "titled "Stabilizing Anionic Redox and Tuning Its Extent in Na-Rich Cathode Materials through Electronic Structure Engineering" is being featured in the front cover of J. Phys Chem C. [Cover Link](https://pubs.acs.org/toc/jpccck/128/22)
+Our [work](https://pubs.acs.org/doi/10.1021/acs.jpcc.4c00811) titled "Stabilizing Anionic Redox and Tuning Its Extent in Na-Rich Cathode Materials through Electronic Structure Engineering" is being featured in the front cover of J. Phys Chem C. [Cover Link](https://pubs.acs.org/toc/jpccck/128/22)
 {{< figure library="true" src="mcov.jpg" title="JPCC Cover II 2024" lightbox="true" >}}
 
 ## J. Phys. Chem C Cover I 
-Our [work](https://pubs.acs.org/doi/10.1021/acs.jpcc.3c00387) titled "titled "Boosting CO2 Activation and Reduction by Engineering the Electronic Structure of Graphitic Carbon Nitride through Transition Metal-Free Single-Atom Functionalization" is being featured in the front cover of J. Phys Chem C. [Cover Link](https://pubs.acs.org/toc/jpccck/127/25)
+Our [work](https://pubs.acs.org/doi/10.1021/acs.jpcc.3c00387) titled "Boosting CO2 Activation and Reduction by Engineering the Electronic Structure of Graphitic Carbon Nitride through Transition Metal-Free Single-Atom Functionalization" is being featured in the front cover of J. Phys Chem C. [Cover Link](https://pubs.acs.org/toc/jpccck/127/25)
 {{< figure library="true" src="manz.jpg" title="JPCC Cover I 2024" lightbox="true" >}}
 
 
 ## ACS Catalysis Cover 
-Our [work](https://pubs.acs.org/doi/10.1021/acscatal.8b03484) titled "work titled "Structure–Activity Relationships in Alkane Dehydrogenation on γ-Al2O3: Site-Dependent Reactions" being featured in the front cover of ACS Catalysis. [Cover Link](https://pubs.acs.org/toc/accacs/8/12)
+Our [work](https://pubs.acs.org/doi/10.1021/acscatal.8b03484) titled "Structure–Activity Relationships in Alkane Dehydrogenation on γ-Al2O3: Site-Dependent Reactions" being featured in the front cover of ACS Catalysis. [Cover Link](https://pubs.acs.org/toc/accacs/8/12)
 {{< figure library="true" src="Catal.jpg" title="Structure–Activity Relationships" lightbox="true" >}}
 
 
