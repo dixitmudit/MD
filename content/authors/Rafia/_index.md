@@ -15,8 +15,7 @@ role: Final Year Project
 
 #Organizations/Affiliations
 organizations: 
-- name: JCT College of Engineering and
-Technology
+- name: JCT College of Engineering and Technology
 #Basic Sciences
 #  url: ""
 
