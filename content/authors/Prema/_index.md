@@ -5,7 +5,7 @@ title: Prema
 
 # Username (this should match the folder name)
 authors:
-- Visting Students
+- Alumni 
 
 # Is this the primary user of the site?
 superuser: false
